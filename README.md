@@ -21,25 +21,10 @@ I focus on **clean logic**, **real practice**, and **consistent improvement**.
 - 🔐 Learning the basics of **cybersecurity and safe computing**  
 
 ---
-### 📚 Academic & Personal Goals
-- 🚀 Build **real-world IT projects**  
-- 🌐 Strengthen understanding of **networks and operating systems**  
-- 🧹 Practice **clean, readable, and maintainable code**  
-- 🎯 Prepare for a future career in **software development or IT-related fields**
-
----
 
 ### 🛠️ Tools I Vibe With
 <p align="left">
    <img src="https://skillicons.dev/icons?i=python,php,laravel,html,css,js,git,github,linux,vscode" />
-</p>
-
----
-
-### 📊 GitHub Energy
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=godddog&show_icons=true&theme=dark" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=godddog&theme=dark" height="160"/>
 </p>
 
 ---
